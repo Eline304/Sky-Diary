@@ -36,6 +36,7 @@ SkyDiary was independently developed for a flight attendant who wanted a persona
 ## Built With
 
 **Frontend:** Vue.js, TypeScript, JavaScript, HTML5, CSS3
+
 **Storage:** Local Storage
 
 ## Project Structure
@@ -46,9 +47,13 @@ This structure helps separate responsibilities and keeps the application organis
 
 ## What I Learned
 Building a multi-page application with Vue.js using reusable components and composables.
+
 Managing application state and user interactions.
+
 Working with photo management features: adding photo's and using favourites and trash.
+
 Designing responsive interfaces for desktop and mobile devices.
+
 Developing an application based on the needs of a real user.
 
 ## Getting Started
