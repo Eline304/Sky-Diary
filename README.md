@@ -55,6 +55,8 @@ This structure helps separate responsibilities and keeps the application organis
 
 - Working with photo management features: adding photo's and using favourites and trash.
 
+- Saving and retrieving data using local storage.
+
 - Designing responsive interfaces for desktop and mobile devices.
 
 - Developing an application based on the needs of a real user.
