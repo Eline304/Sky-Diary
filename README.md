@@ -6,7 +6,7 @@
 ## Screenshots
 
 <details>
-<summary>🖥️ Bekijk Desktop Screenshots</summary>
+<summary>🖥️ Desktop Screenshots</summary>
 
 ### Home & Trips Overview
 ![SkyDiary Desktop Home](public/screenshots/desktop-home.png)
@@ -17,7 +17,7 @@
 </details>
 
 <details>
-<summary>📱 Bekijk Mobiele Screenshots (Responsive)</summary>
+<summary>📱 Mobiele Screenshots (Responsive)</summary>
 <br>
 <p align="center">
   <img src="public/screenshots/mobile-home.jpg" width="31%" alt="Mobile Home" />
