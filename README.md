@@ -29,8 +29,11 @@ SkyDiary was independently developed for a flight attendant who wanted a persona
 ## Features
 
 **Home Timeline:** A reverse chronological timeline displaying previous trips with dates, destinations, and photos.
+
 **Trip Overview:** Browse all trips via individual cards with options to search by destination and sort alphabetically or by date.
+
 **Trip Albums:** View detailed flight info (airports, dates, aircraft), add photos, browse photos grouped by day, and open the device camera directly on mobile.
+
 **Photo Management:** Add photos to favorites, view them in a dedicated section, move items to the trash, and restore or permanently delete them.
 
 ## Built With
@@ -46,15 +49,15 @@ The application is organised into 13 Vue components, multiple composables and vi
 This structure helps separate responsibilities and keeps the application organised and maintainable.
 
 ## What I Learned
-Building a multi-page application with Vue.js using reusable components and composables.
+- Building a multi-page application with Vue.js using reusable components and composables.
 
-Managing application state and user interactions.
+- Managing application state and user interactions.
 
-Working with photo management features: adding photo's and using favourites and trash.
+- Working with photo management features: adding photo's and using favourites and trash.
 
-Designing responsive interfaces for desktop and mobile devices.
+- Designing responsive interfaces for desktop and mobile devices.
 
-Developing an application based on the needs of a real user.
+- Developing an application based on the needs of a real user.
 
 ## Getting Started
 
