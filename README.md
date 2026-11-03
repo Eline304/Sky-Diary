@@ -1,7 +1,7 @@
 # SkyDiary
 
     A travel photo album application designed to help users organise, browse and relive their travel memories.
-    SkyDiary was independently developed for a flight attendant who wanted a personal space to organise photos that displays information about their trips.
+    SkyDiary was independently developed as a school assignment for a real user (a flight attendant) who wanted a personal app to organise photos that displays information about their trips.
 
 ## Screenshots
 
@@ -49,10 +49,16 @@
     This structure helps separate responsibilities and keeps the application organised and maintainable.
 
 ## What I Learned
-    - Building a multi-page application with Vue.js using reusable components and composables.
+    - Applying Vue fundamentals to build a multi-page application.
+
+    - Structuring an application using reusable components and composables.
+
+    - Working with JavaScript and TypeScript in a Vue application.
+
+    - Integrating Progressive Web App (PWA) functionality.
     
     - Managing application state and user interactions.
-    
+        
     - Working with photo management features: adding photo's and using favourites and trash.
     
     - Saving and retrieving data using local storage.
@@ -90,6 +96,7 @@
 ## Development
 
     This project was designed and developed independently, from the initial concept to the implementation of its features.
+    Sky Diary is currently under development, with additional features and improvements planned.
 
 ## Future improvements
 
@@ -102,5 +109,5 @@
     To give users a better overview of their travels, I suggest adding a 2D world map on the home page, positioned next to the timeline.
     - The map should automatically drop pins on all the destinations the user has visited based on their logged flights.
 
-    3. Database
+    3. Database integration
     Switch from local storage to a dedicated database to store trip data and user pictures.
