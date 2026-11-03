@@ -71,7 +71,7 @@ This structure helps separate responsibilities and keeps the application organis
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Eline304/Sky-Diary.git
    ```
 2. Navigate to the project directory:
    ```bash
