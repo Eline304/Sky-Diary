@@ -1,7 +1,7 @@
 # SkyDiary
 
-A travel photo album application designed to help users organise, browse and relive their travel memories.
-SkyDiary was independently developed for a flight attendant who wanted a personal space to organise photos that displays information about their trips.
+    A travel photo album application designed to help users organise, browse and relive their travel memories.
+    SkyDiary was independently developed for a flight attendant who wanted a personal space to organise photos that displays information about their trips.
 
 ## Screenshots
 
@@ -27,14 +27,14 @@ SkyDiary was independently developed for a flight attendant who wanted a persona
 </details>
 
 ## Features
-
-**Home Timeline:** A reverse chronological timeline displaying previous trips with dates, destinations, and photos.
-
-**Trip Overview:** Browse all trips via individual cards with options to search by destination and sort alphabetically or by date.
-
-**Trip Albums:** View detailed flight info (airports, dates, aircraft), add photos, browse photos grouped by day, and open the device camera directly on mobile.
-
-**Photo Management:** Add photos to favorites, view them in a dedicated section, move items to the trash, and restore or permanently delete them.
+    
+    **Home Timeline:** A reverse chronological timeline displaying previous trips with dates, destinations, and photos.
+    
+    **Trip Overview:** Browse all trips via individual cards with options to search by destination and sort alphabetically or by date.
+    
+    **Trip Albums:** View detailed flight info (airports, dates, aircraft), add photos, browse photos grouped by day, and open the device camera directly on mobile.
+    
+    **Photo Management:** Add photos to favorites, view them in a dedicated section, move items to the trash, and restore or permanently delete them.
 
 ## Built With
 
