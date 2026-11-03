@@ -21,7 +21,7 @@ SkyDiary was independently developed for a flight attendant who wanted a persona
 <br>
 <p align="center">
   <img src="public/screenshots/mobile-home.jpg" width="31%" alt="Mobile Home" />
-  <img src="public/screenshots/mobile-trip.jpg" width="31%" alt="Mobile Trip" />
+  <img src="public/screenshots/mobile-trips.jpg" width="31%" alt="Mobile Trip" />
   <img src="public/screenshots/mobile-trip-page.jpg" width="31%" alt="Mobile Trip Page" />
 </p>
 </details>
