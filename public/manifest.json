@@ -1,0 +1,24 @@
+
+{
+  "id": "/",
+  "name": "SkyDiary",
+  "short_name": "SkyDiary",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/images/plane-192.jpeg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/plane-512.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#00A1E4",
+  "theme_color": "#00A1E4",
+  "display": "standalone",
+  "orientation": "portrait"
+}
