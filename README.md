@@ -13,7 +13,7 @@ Desktop screenshots
 </p>
 
 <details>
-<summary> Desktop Screenshots</summary>
+<summary> Mobile Screenshots</summary>
 
 ### Home & Trips Overview
 ![SkyDiary Desktop Home](public/screenshots/desktop-home.png)
