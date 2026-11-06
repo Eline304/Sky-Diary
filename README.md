@@ -6,6 +6,7 @@ SkyDiary was independently developed as a school assignment for a real user (a f
 ## Screenshots
 
 <p align="center">
+## Mobile
 <img src="public/screenshots/mobile-home.jpg" width="31%" alt="Mobile Home" />
 <img src="public/screenshots/mobile-trips.jpg" width="31%" alt="Mobile Trip" />
 <img src="public/screenshots/mobile-trip-page.jpg" width="31%" alt="Mobile Trip Page" />
