@@ -43,7 +43,7 @@ Frontend: Vue.js, TypeScript, JavaScript, HTML5, CSS3
 Storage: Local Storage
 
 ## Project Structure
-    
+
 The application is organised into 13 Vue components, multiple composables and views.
 
 This structure helps separate responsibilities and keeps the application organised and maintainable.
@@ -58,7 +58,7 @@ This structure helps separate responsibilities and keeps the application organis
 - Integrating Progressive Web App (PWA) functionality.
 
 - Managing application state and user interactions.
-    
+
 - Working with photo management features: adding photo's and using favourites and trash.
 
 - Saving and retrieving data using local storage.
@@ -74,23 +74,23 @@ This structure helps separate responsibilities and keeps the application organis
 - npm
 
 #### Installation
-    
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Eline304/Sky-Diary.git
-   ```
+```bash
+git clone https://github.com/Eline304/Sky-Diary.git
+```
 2. Navigate to the project directory:
-   ```bash
-   cd skydiary
-   ```
+```bash
+cd skydiary
+```
 3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 4. Start the local development server:
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 5. Open the local URL displayed in your terminal.
 
 ## Development
